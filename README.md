@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" src="https://komarev.com/ghpvc/?username=devallabharath&color=blue"/> <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=devallabharath&show_icons=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devallabharath"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallabharath"/>
