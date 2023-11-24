@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 ---
 
+### Latest Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devallabharath&repo=github-readme-stats)](https://github.com/devallabharath/React-Colors)
+
 ### 📄 Technical Skills
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
