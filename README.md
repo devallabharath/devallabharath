@@ -17,7 +17,7 @@
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=devallabharath&show_icons=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devallabharath"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallabharath"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallabharath&layout=compact"/>
 
 ---
 
@@ -31,8 +31,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/javascript/javascript.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/javascript/javascript.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/mysql/mysql.png"></code>
