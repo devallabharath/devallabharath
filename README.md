@@ -9,8 +9,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-devalla/)](https://www.linkedin.com/in/bharath-devalla/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devalla_bharath)](https://www.instagram.com/devalla_bharath)
 [![GitHub followers](https://img.shields.io/github/followers/devallabharath?label=Follow&style=social)](https://github.com/devallabharath?tab=followers)
 
 ---
